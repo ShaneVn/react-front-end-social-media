@@ -10,7 +10,7 @@ export default function Share() {
         <div className="shareTop">
           <img className="shareProfileImg" src="/assets/person/1.jpeg" alt="" />
           <input
-            placeHolder="What's in your mind"
+            placeholder="What's in your mind"
             type="text"
             className="shareInput"
           />
